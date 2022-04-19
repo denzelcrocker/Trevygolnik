@@ -1,0 +1,16 @@
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\bin\Debug\Treugolnik.exe.config
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\bin\Debug\Treugolnik.exe
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\bin\Debug\Treugolnik.pdb
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik.csproj.AssemblyReference.cache
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\MainWindow.g.cs
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\App.g.cs
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik_MarkupCompile.cache
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik_MarkupCompile.lref
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\MainWindow.baml
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik.g.resources
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik.Properties.Resources.resources
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik.csproj.GenerateResource.cache
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik.exe
+C:\Users\zelen\Desktop\Treugolnik\Treugolnik\obj\Debug\Treugolnik.pdb
